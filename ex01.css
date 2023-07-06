@@ -1,0 +1,44 @@
+footer{
+    font: normal 15pt italic;
+    text-align: center;
+    margin-top:5em;
+}
+
+h1{
+    font: normal 30pt arial;
+    text-align: center;
+    margin-top:1em;
+}
+
+h3{
+    font: normal 16pt arial;
+    text-align: center;
+   
+}
+body{
+    background-color: #e4e4e4;
+}
+
+.container{
+    background-color: #fff;
+    width:28em;
+    height:22em;
+    margin:auto;
+    box-shadow: 5px 8px #8181816b;
+    border-radius: 2%;
+    overflow: auto;
+   
+}
+
+.circulo{
+    width:18em;
+    height:18em;
+    margin:auto;
+    border-radius: 100%;
+    margin-top: 1.6em;
+    background-image: url("manha.jpg");
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
+    
+}
